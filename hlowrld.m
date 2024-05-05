@@ -1,1 +1,3 @@
-disp("Helloworld!");
+s="Helloworld!";
+
+disp(s);
